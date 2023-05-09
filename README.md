@@ -6,7 +6,7 @@
   <br /> ##Table of Contents
   <br /> 
   <br /> ##Installation
-  <br /> To install, simply clone the github repo, install dependencies, and run server.js. You will be shown the PORT to use. Navigate to http://localhost:PORT/ to begin! You can also just navigate to this website         https://git.heroku.com/express-note-taker-dannyl2131.git
+  <br /> To install, simply clone the github repo, install dependencies, and run server.js. You will be shown the PORT to use. Navigate to http://localhost:PORT/ to begin! You can also just navigate to this website https://express-note-taker-dannyl2131.herokuapp.com/
   <br /> ##Usage Information
   <br /> 
   <br /> ##Contributing
